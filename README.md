@@ -10,9 +10,9 @@ Hi, I'm Raja Babu Sahu, a proactive and innovation-driven Computer Science Engin
 With expertise in **IoT**, **Machine Learning**, **Deep Learning**, **Blockchain**, **Cybersecurity**, and **Data Analytics**, I have contributed to several projects in these domains. I enjoy working on intelligent IoT systems, secure decentralized blockchain applications, and AI-driven models for predictive insights.
 
 ### Skills & Expertise
-- **Programming Languages**: Python, C++, SQL
+- **Programming Languages**: Python,JAVA, C, SQL
 - **Frameworks & Tools**: TensorFlow, Keras, Flask, REST APIs
-- **Technologies**: IoT, Machine Learning, Deep Learning, Blockchain, Embedded Systems
+- **Technologies**: IoT, Machine Learning, Deep Learning, NLP , GenAI
 - **Project Management**: Proven experience in team leadership, market analysis, and project strategy.
 - **Cybersecurity**: Focused on developing secure solutions and protecting data integrity.
   
