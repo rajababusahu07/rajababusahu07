@@ -1,6 +1,6 @@
 # Hi, I'm Raja Babu Sahu 
 
-> **Finalist — Indian Army Terrier Cyber Quest 2025** &nbsp;|&nbsp; **AI/ML Engineer in the making** &nbsp;|&nbsp; **Problem-Solver** &nbsp;|&nbsp; **Strategic Team Leader**
+> **Finalist : Indian Army Terrier Cyber Quest 2025** &nbsp;|&nbsp; **AI/ML Engineer in the making** &nbsp;|&nbsp; **Problem-Solver** &nbsp;|&nbsp; **Strategic Team Leader**
 
 ---
 
@@ -24,7 +24,7 @@ I'm actively looking for **AI/ML Engineering roles** where I can build, evaluate
 
 ## Projects
 
-###  [LENS — Multi-Modal Deepfake Detection Platform](https://github.com/rajababusahu07/Ai-synthetic-media-detection-system)
+###  [LENS - Multi-Modal Deepfake Detection Platform](https://github.com/rajababusahu07/Ai-synthetic-media-detection-system)
 *Python · PyTorch · FastAPI · Kafka · Docker · Kubernetes · Next.js*
 
 A production-grade platform that detects deepfakes across **images, video, and audio** using an event-driven microservices architecture.
