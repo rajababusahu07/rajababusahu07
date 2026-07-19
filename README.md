@@ -2,15 +2,11 @@
 
 > **Finalist — Indian Army Terrier Cyber Quest 2025** &nbsp;|&nbsp; **AI/ML Engineer in the making** &nbsp;|&nbsp; **Problem-Solver** &nbsp;|&nbsp; **Strategic Team Leader**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-babu-sahu-b3986b349)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajababu2003sahu@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/rajababusahu07?style=flat&logo=github)](https://github.com/rajababusahu07)
-
 ---
 
 ## About Me
 
-I'm a final-year Computer Science Engineering student at **GIET University, Gunupur**, specializing in **Artificial Intelligence and Machine Learning**. I build ML systems end-to-end — from raw data and model training to deployment behind real APIs — not just notebooks.
+I'm a final-year Computer Science Engineering student at **GIET University, Gunupur**, specializing in **Artificial Intelligence and Machine Learning**. I build ML systems end-to-end - from raw data and model training to deployment behind real APIs.
 
 My recent work spans **multi-modal deep learning** (fusing image, video, and audio models for deepfake detection) and **rigorous ML evaluation on real sensor data** (drone fault detection, tested with proper cross-validation instead of trusting a single lucky train/test split). I care as much about *proving a model actually works* as I do about building it.
 
