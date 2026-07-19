@@ -1,4 +1,4 @@
-# Hi, I'm Raja Babu Sahu 👋
+# Hi, I'm Raja Babu Sahu 
 
 > **Finalist — Indian Army Terrier Cyber Quest 2025** &nbsp;|&nbsp; **AI/ML Engineer in the making** &nbsp;|&nbsp; **Problem-Solver** &nbsp;|&nbsp; **Strategic Team Leader**
 
@@ -24,7 +24,7 @@ I'm actively looking for **AI/ML Engineering roles** where I can build, evaluate
 
 ## Projects
 
-### 🔬 [LENS — Multi-Modal Deepfake Detection Platform](https://github.com/rajababusahu07/Ai-synthetic-media-detection-system)
+###  [LENS — Multi-Modal Deepfake Detection Platform](https://github.com/rajababusahu07/Ai-synthetic-media-detection-system)
 *Python · PyTorch · FastAPI · Kafka · Docker · Kubernetes · Next.js*
 
 A production-grade platform that detects deepfakes across **images, video, and audio** using an event-driven microservices architecture.
@@ -33,7 +33,7 @@ A production-grade platform that detects deepfakes across **images, video, and a
 - Built an event-driven pipeline on **Apache Kafka** with **KEDA autoscaling**, independently scaling GPU workers across image, video, and audio workloads.
 - Designed a **Bayesian Fusion MLP** with **MC Dropout** uncertainty estimation and **Isotonic Regression** calibration, and deployed the full stack (13 services) via **TorchServe**, Docker, and Kubernetes.
 
-### 🚁 [Drone Anomalies Detection System](https://github.com/rajababusahu07/Drone_Anomalies_Detection_System)
+###  [Drone Anomalies Detection System](https://github.com/rajababusahu07/Drone_Anomalies_Detection_System)
 *Python · Scikit-learn · XGBoost · Deep Learning (CNN+LSTM+Attention) · FastAPI*
 
 A multi-label fault detection system built on **37 real drone flight logs**, with a strong emphasis on proving the model actually generalizes.
@@ -46,15 +46,15 @@ A multi-label fault detection system built on **37 real drone flight logs**, wit
 
 ## Hackathons & Achievements
 
-- 🏆 **Finalist — Indian Army Terrier Cyber Quest 2025** (New Delhi): Top 6 nationally for the Drone Anomaly Detection problem statement.
-- 🏆 **Finalist — CyberHack 2025** (IIM Nagpur): Recognized nationally for an innovative IoT-integrated solution.
-- 🥉 **3rd Place — HackFest 2025** (Startup Odisha, O-Hub Bhubaneswar): AI-driven solution for a real-world startup problem.
-- 🥇 **6th Technovation Hackathon Winner** (Sharda University, New Delhi)
-- 🎖️ **6th Place — Smart India Hackathon 2025**: Plastic detection system in water, among 500 national teams.
-- 🚀 **Qualified — ISRO Robotics Challenge (IRoC) 2026**: Cleared Preliminary and Qualification rounds.
-- 📄 **Publications:** Two research abstracts at the International TRIBE Conference (Science Global Publication), ISBN: 979-8-88-599-135-3.
-- 🎤 **Organizer — Hacknovation** (University-Level Hackathon): 6 problem statements, 600+ participants.
-- 🎖️ **Organizer — Cybersecurity Awareness Program**, under Rayagada District Police Administration & SDM.
+-  **Finalist - Indian Army Terrier Cyber Quest 2025** (New Delhi): Top 6 nationally for the Drone Anomaly Detection problem statement.
+-  **Finalist - CyberHack 2025** (IIM Nagpur): Recognized nationally for an innovative IoT-integrated solution.
+-  **3rd Place - HackFest 2025** (Startup Odisha, O-Hub Bhubaneswar): AI-driven solution for a real-world startup problem.
+-  **6th Technovation Hackathon Winner** (Sharda University, New Delhi)
+-  **6th Place - Smart India Hackathon 2025**: Plastic detection system in water, among 500 national teams.
+-  **Qualified - ISRO Robotics Challenge (IRoC) 2026**: Cleared Preliminary and Qualification rounds.
+-  **Publications:** Two research abstracts at the International TRIBE Conference (Science Global Publication), ISBN: 979-8-88-599-135-3.
+-  **Organizer - Hacknovation** (University-Level Hackathon): 6 problem statements, 600+ participants.
+-  **Organizer - Cybersecurity Awareness Program**, under Rayagada District Police Administration & SDM.
 
 ---
 
@@ -62,7 +62,7 @@ A multi-label fault detection system built on **37 real drone flight logs**, wit
 
 I'm always open to collaborating on interesting AI/ML projects or discussing new opportunities.
 
-- 💼 **LinkedIn:** [linkedin.com/in/raja-babu-sahu-b3986b349](https://www.linkedin.com/in/raja-babu-sahu-b3986b349)
-- 📧 **Email:** [rajababu2003sahu@gmail.com](mailto:rajababu2003sahu@gmail.com)
+-  **LinkedIn:** [linkedin.com/in/raja-babu-sahu-b3986b349](https://www.linkedin.com/in/raja-babu-sahu-b3986b349)
+-  **Email:** [rajababu2003sahu@gmail.com](mailto:rajababu2003sahu@gmail.com)
 
 > "Innovation distinguishes between a leader and a follower." — Steve Jobs
